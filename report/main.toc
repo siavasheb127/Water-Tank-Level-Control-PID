@@ -1,0 +1,27 @@
+\contentsline {section}{\numberline {1}عنوان سوال اول}{2}{section.1}%
+\contentsline {subsection}{\numberline {1.1}عنوان بخش اول سوال اول}{2}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}عنوان بخش دوم سوال اول}{2}{subsection.1.2}%
+\contentsline {section}{\numberline {2}عنوان سوال دوم}{2}{section.2}%
+\contentsline {section}{\numberline {3}عنوان سوال سوم}{2}{section.3}%
+\contentsline {section}{\numberline {4}عنوان سوال چهارم}{3}{section.4}%
+\contentsline {section}{\numberline {5}عنوان سوال پنجم}{3}{section.5}%
+\contentsline {section}{\numberline {6}عنوان سوال ششم}{3}{section.6}%
+\contentsline {subsection}{\numberline {6.1}عنوان بخش اول سوال ششم}{3}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}عنوان بخش دوم سوال ششم}{3}{subsection.6.2}%
+\contentsline {section}{\numberline {7}عنوان سوال هفتم}{4}{section.7}%
+\contentsline {section}{\numberline {8}عنوان سوال هشتم}{5}{section.8}%
+\contentsline {subsection}{\numberline {8.1}عنوان بخش اول سوال هشتم}{5}{subsection.8.1}%
+\contentsline {subsection}{\numberline {8.2}عنوان بخش دوم سوال هشتم}{5}{subsection.8.2}%
+\contentsline {subsection}{\numberline {8.3}عنوان بخش سوم سوال هشتم}{5}{subsection.8.3}%
+\contentsline {section}{\numberline {9}ضمیمه}{5}{section.9}%
+\contentsline {section}{\numberline {10}پرسش سوم - سیستم کنترل وضعیت موتور DC}{5}{section.10}%
+\contentsline {subsection}{\numberline {10.1}معرفی سیستم و پارامترها}{5}{subsection.10.1}%
+\contentsline {subsection}{\numberline {10.2}بلوک دیاگرام سیستم}{6}{subsection.10.2}%
+\contentsline {subsection}{\numberline {10.3}محاسبات دستی تابع تبدیل}{6}{subsection.10.3}%
+\contentsline {subsubsection}{\numberline {10.3.1}حلقه باز ($K_t = 0$)}{6}{subsubsection.10.3.1}%
+\contentsline {subsubsection}{\numberline {10.3.2}حلقه بسته ($K_t = 1$)}{6}{subsubsection.10.3.2}%
+\contentsline {subsection}{\numberline {10.4}محاسبات با استفاده از سیمولینک و دستور linmod}{7}{subsection.10.4}%
+\contentsline {subsection}{\numberline {10.5}نتایج و مقایسه}{7}{subsection.10.5}%
+\contentsline {subsection}{\numberline {10.6}پاسخ پله سیستم}{7}{subsection.10.6}%
+\contentsline {subsection}{\numberline {10.7}خطای حالت ماندگار}{7}{subsection.10.7}%
+\contentsline {subsection}{\numberline {10.8}محدودیت $K_a$ برای فراجهش کمتر از ۵\%}{8}{subsection.10.8}%

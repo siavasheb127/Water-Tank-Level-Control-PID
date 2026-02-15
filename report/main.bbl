@@ -1,0 +1,100 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{b1}{misc}{}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{howpublished}{\url{\href{https://github.com/MJAHMADEE/ARASLaTeXFormats}{گیتهاب (\lr{GitHub})}}}
+    \endentry
+    \entry{b2}{book}{}
+      \name{author}{2}{}{%
+        {{hash=e009b8fe6afdae8cc2045f0dcc3091a3}{%
+           family={Astrom},
+           familyi={A\bibinitperiod},
+           given={Karl\bibnamedelima J},
+           giveni={K\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=1b22418287b9d28253212466e1e7e534}{%
+           family={Hagglund},
+           familyi={H\bibinitperiod},
+           given={Tore},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Advanced PID control}%
+      }
+      \list{publisher}{1}{%
+        {ISA}%
+      }
+      \strng{namehash}{330ccc1df65fba5247f9ffbdef28cc0f}
+      \strng{fullhash}{330ccc1df65fba5247f9ffbdef28cc0f}
+      \strng{bibnamehash}{330ccc1df65fba5247f9ffbdef28cc0f}
+      \strng{authorbibnamehash}{330ccc1df65fba5247f9ffbdef28cc0f}
+      \strng{authornamehash}{330ccc1df65fba5247f9ffbdef28cc0f}
+      \strng{authorfullhash}{330ccc1df65fba5247f9ffbdef28cc0f}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{The book can be consulted by contacting: BE-ABP: Sosin, Mateusz}
+      \field{title}{{Advanced PID control}}
+      \field{year}{2006}
+      \verb{urlraw}
+      \verb https://cds.cern.ch/record/1514097
+      \endverb
+      \verb{url}
+      \verb https://cds.cern.ch/record/1514097
+      \endverb
+    \endentry
+    \entry{b3}{book}{}
+      \name{author}{1}{}{%
+        {{hash=f9f53c687433abe7ec73b82caed68cb9}{%
+           family={Bélanger},
+           familyi={B\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Saunders College Pub.}%
+      }
+      \strng{namehash}{f9f53c687433abe7ec73b82caed68cb9}
+      \strng{fullhash}{f9f53c687433abe7ec73b82caed68cb9}
+      \strng{bibnamehash}{f9f53c687433abe7ec73b82caed68cb9}
+      \strng{authorbibnamehash}{f9f53c687433abe7ec73b82caed68cb9}
+      \strng{authornamehash}{f9f53c687433abe7ec73b82caed68cb9}
+      \strng{authorfullhash}{f9f53c687433abe7ec73b82caed68cb9}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9780030134890}
+      \field{title}{Control Engineering: A Modern Approach}
+      \field{year}{1995}
+      \verb{urlraw}
+      \verb https://books.google.de/books?id=IlVGAAAAYAAJ
+      \endverb
+      \verb{url}
+      \verb https://books.google.de/books?id=IlVGAAAAYAAJ
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
